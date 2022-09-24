@@ -26,17 +26,11 @@ yes {
   text-align: center;
    margin-top:20px;
   padding:124px ;
-  margin-left:700px;
+  margin-left:500px;
   font-size: 50px;
   border: 5px solid black;
 }
-#button1 {
-   float: left;
-margin-right:500px;
-margin-top:-1050px;
-  padding: 8px 6px 0px 6px;
-  margin-left:200px;
-}
+
 #image2 {
      float: left;
 margin-right:500px;
@@ -65,10 +59,10 @@ margin-top:-850px;
 }
 #image3 {
      float: left;
-margin-right:500px;
+margin-right:700px;
 margin-top:-950px;
   padding: 8px 6px 0px 6px;
-  margin-left:500px;
+  margin-left:1050px;
   border: 5px solid yellow;
    text-align: center;
    outline:  blue 50px;
@@ -84,15 +78,22 @@ yes2 {
   font-size: 50px;
   border: 5px solid black;
        float: left;
-margin-right:225px;
+margin-right:100px;
 margin-top:-850px;
   padding: 8px 6px 0px 6px;
-  margin-left:500px;
+  margin-left:1000px;
 }
-#button1 {
+#button2 {
    float: left;
 margin-right:500px;
 margin-top:-1050px;
   padding: 8px 6px 0px 6px;
   margin-left:200px;
+}
+#button3 {
+   float: left;
+margin-right:500px;
+margin-top:-1050px;
+  padding: 8px 6px 0px 6px;
+  margin-left:970px;
 }
